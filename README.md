@@ -24,5 +24,11 @@
 
 # Demo 
 
+![](https://github.com/MarowaAdel28/Employees-System/blob/main/employeeV1.gif)
+
+
+
+
+
 https://user-images.githubusercontent.com/117987620/201338622-38645f5a-7ddf-465f-a122-049469c1f777.mp4
 
