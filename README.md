@@ -2,7 +2,7 @@
 
 # Features
 - New
-- Disply
+- Display
 - Exit
 
 # New
@@ -12,13 +12,17 @@
 - bonus must be positive value
 - reduction must be less than the half of employee salary
 
-# Disply
-- can't disply emplyee till user add at least one employee 
-- when user disply last employee and press next will disply first employee info
-- when user disply first employee and press prev will display last employee info
-- when user go back to home, when he return to disply, will disply last employee before he get out from disply page
+# Display
+# display
+- can't display emplyee till user add at least one employee 
+- when user display last employee and press next will display first employee info
+- when user display first employee and press prev will display last employee info
+- when user go back to home, when he return to display, will display last employee before he get out from display page
+
 # Exit
-- Just disply thanks message for user
+# display thanks message for user
+
+# Demo 
 
 https://user-images.githubusercontent.com/117987620/201338622-38645f5a-7ddf-465f-a122-049469c1f777.mp4
 
