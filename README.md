@@ -13,7 +13,7 @@
 - reduction must be less than the half of employee salary
 
 # Display
-# display
+# display employee info CODE, NAME AND NET SALARY
 - can't display emplyee till user add at least one employee 
 - when user display last employee and press next will display first employee info
 - when user display first employee and press prev will display last employee info
